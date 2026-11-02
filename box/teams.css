@@ -89,38 +89,6 @@ h1 {
   padding: 15px;
 }
 
-/* ===== TEAM COLORS ===== */
-
-.dodgers {
-  background-color: #005a9c;
-  color: gold;
-}
-
-.giants {
-  background-color: #fd5a1e;
-  color: white;
-}
-
-.diamondbacks {
-  background-color: #a71930;
-  color: sandybrown;
-}
-
-.rockies {
-  background-color: #33006f;
-  color: #ffffff;
-}
-
-.braves {
-  background-color: #13274f;
-  color: red;
-}
-
-.orioles {
-  background-color: #df4601;
-  color: #000;
-}
-
 /* ===== TABLET AND PHONE ===== */
 
 @media (max-width: 800px) {
@@ -152,3 +120,4 @@ h1 {
     padding: 10px;
   }
 }
+/* random comment to test git diff */
