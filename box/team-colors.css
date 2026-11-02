@@ -1,0 +1,31 @@
+/* ===== TEAM COLORS ===== */
+
+.dodgers {
+  background-color: #005a9c;
+  color: gold;
+}
+
+.giants {
+  background-color: #fd5a1e;
+  color: white;
+}
+
+.diamondbacks {
+  background-color: #a71930;
+  color: sandybrown;
+}
+
+.rockies {
+  background-color: #33006f;
+  color: #ffffff;
+}
+
+.braves {
+  background-color: #13274f;
+  color: red;
+}
+
+.orioles {
+  background-color: #df4601;
+  color: #000;
+}
