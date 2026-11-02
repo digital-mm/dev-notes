@@ -1,0 +1,40 @@
+body {
+  margin: 0;
+  height: 100vh;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.box {
+  width: 500px;
+  height: 200px;
+  background-color: dodgerblue;
+  justify-content: center;
+  border-radius: 300px 100px 300px 100px;
+  align-items: center;
+  display: flex;
+  border: 15px gold solid;
+  box-shadow:
+    10px 10px 20px gold,
+    inset 10px 10px 20px gold;
+}
+.dodgers {
+  color: gold;
+  font-size: 80px;
+  margin: 0;
+  font-family: "Great Vibes", cursive;
+  font-style: oblique;
+  text-shadow: 10px 10px 15px gold;
+  font-weight: 900;
+}
+.brewers {
+  color: gold;
+  font-size: 80px;
+  margin: 0;
+  font-family: "Great Vibes", cursive;
+  font-style: oblique;
+  text-shadow: 10px 10px 15px gold;
+  font-weight: 900;
+}
